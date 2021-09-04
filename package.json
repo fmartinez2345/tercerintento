@@ -1,0 +1,14 @@
+{
+  "name": "tercerapruebgit",
+  "version": "1.0.0",
+  "description": "Tercera prueba con git",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melo",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^4.0.1"
+  }
+}
